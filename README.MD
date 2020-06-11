@@ -2,6 +2,8 @@
 
 适用于男女分开双人单桌，每行5桌，最多70人的随机座位抽签程序。
 
+![截图](https://github.com/812610357/Random-Seating-Table/raw/master/image/1.png)
+
 ## 使用方法
 
 1. 将学生名单分男女导入到“导入名单”工作表中。
