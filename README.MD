@@ -2,7 +2,7 @@
 
 适用于男女分开双人单桌，每行5桌，最多70人的随机座位抽签程序。
 
-下载地址：https://github.com/812610357/Random-Seating-Table/releases/download/v2.1/V2.1.xlsm
+下载地址：<https://github.com/812610357/Random-Seating-Table/releases/download/v2.1/V2.1.xlsm>
 
 ![截图](https://github.com/812610357/Random-Seating-Table/raw/master/image/1.png)
 
